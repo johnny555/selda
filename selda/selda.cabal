@@ -50,6 +50,7 @@ library
     Database.Selda.SqlType
     Database.Selda.Unsafe
     Database.Selda.Validation
+    Database.Selda.Generic
   other-modules:
     Database.Selda.Backend.Internal
     Database.Selda.Caching
@@ -57,7 +58,7 @@ library
     Database.Selda.Compile
     Database.Selda.Exp
     Database.Selda.Frontend
-    Database.Selda.Generic
+    
     Database.Selda.Inner
     Database.Selda.Prepared
     Database.Selda.Query
